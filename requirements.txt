@@ -1,0 +1,10 @@
+pandas>=1.5.0
+pyodbc>=4.0.0
+sqlalchemy>=2.0.0
+
+# Post–feature-engineering: models, imbalance-aware training, SHAP (research-gap pipeline)
+scikit-learn>=1.2.0
+xgboost>=2.0.0
+shap>=0.44.0
+matplotlib>=3.7.0
+imbalanced-learn>=0.12.0
