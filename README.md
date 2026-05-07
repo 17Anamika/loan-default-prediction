@@ -107,14 +107,9 @@ loan-default-prediction/
 ├── sql/
 │   ├── 05_feature_table_test.sql
 │   └── 05_feature_table_one_row_per_application.sql
-│
-├── models/
-│
-├── notebooks/
-│
+|
 ├── screenshots/
 │   ├── dashboard.png
 │   ├── shap_summary.png
 │   ├── roc_auc.png
-│
-└── src/
+│   ├── Business risk report 
