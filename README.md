@@ -82,8 +82,34 @@ The system includes:
 ```text
 loan-default-prediction/
 │
-├── loan_default.ipynb
 ├── app.py
+├── Loan_default.ipynb
+├── model_pipeline.pkl
+├── baseline_applicant.json
 ├── requirements.txt
 ├── README.md
+│
+├── data/
+│   ├── application_train.csv
+│   ├── bureau.csv
+│   ├── bureau_balance.csv
+│   ├── credit_card_balance.csv
+│   ├── installments_payments.csv
+│   ├── POS_CASH_balance.csv
+│   ├── previous_application.csv
+│   └── sample_submission.csv
+│
+├── sql/
+│   ├── 05_feature_table_test.sql
+│   └── 05_feature_table_one_row_per_application.sql
+│
+├── models/
+│
+├── notebooks/
+│
 ├── screenshots/
+│   ├── dashboard.png
+│   ├── shap_summary.png
+│   ├── roc_auc.png
+│
+└── src/
