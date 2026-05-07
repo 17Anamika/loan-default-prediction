@@ -18,6 +18,11 @@ The system includes:
 
 ---
 
+Dataset Source:
+Home Credit Default Risk Dataset from Kaggle[ https://www.kaggle.com/competitions/home-credit-default-risk/data?utm_source=chatgpt.com]
+
+---
+
 ## Features
 
 - Handles imbalanced datasets effectively
